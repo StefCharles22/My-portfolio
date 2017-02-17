@@ -1,4 +1,8 @@
 .jumbotron .right-col p {
     font-weight: 700;
     font-size: 100px;
+
+}
+.jumbotron .left-col p {
+  font-size: 28 px;
 }
