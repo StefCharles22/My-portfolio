@@ -6,3 +6,8 @@
 .jumbotron .left-col p {
   font-size: 28 px;
 }
+
+.contact-info > #address {
+    font-size: 25px;
+    color: beige;
+}
