@@ -14,10 +14,14 @@
 
 #contact .section-title {
     font-size: 42px;
-    color: #21b799;
+    color: white;
 }
 
 #contact .contact-info address  {
     font-size: 24px;
-    color: beige;
+    color: white;
+}
+
+.resume {
+  color: white;
 }
